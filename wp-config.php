@@ -26,7 +26,7 @@ define('DB_NAME', 'wordpress_ecommerce');
 define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', '');
+define('DB_PASSWORD', 'alacazan');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
@@ -46,14 +46,14 @@ define('DB_COLLATE', '');
  *
  * @since 2.6.0
  */
-define('AUTH_KEY',         'G=yEZmLZMJV%FNoFi{0=J2]PA#W[Y^`BF(<xsM)<HIApmR$%MALpNJCerijpze31');
-define('SECURE_AUTH_KEY',  'ug#M7ZT0QRPWAs|#,I- bzg@*6qeb,h29yE5-8pbYof;~h M^a6re:5Ss$t{-%i%');
-define('LOGGED_IN_KEY',    'TQIP~,:7L+<9E-`OgXA?M3.&3eh,CbplXA~Cq}qpR*yByFh0(Ko9?DqLC2T/e9x^');
-define('NONCE_KEY',        ' Ki^Yvu)J#~B:ec7G&)TCxN(xB5LjK;r2$G]NY|4)]M%`3w<FxCg1k.>w>Gu<pK5');
-define('AUTH_SALT',        'n[lYVRTqT4.:]zb3TqE~4Gzak3$1:!Ca@x(p@/aIpH%{Ig>CmOZg;@JiWNX>gd!?');
-define('SECURE_AUTH_SALT', 'Yv#O  Y]H6&q;kmC=.S{lT6;KR4bpo1%_QUN[I=Z3sx{p|%?`RBYE?bMcEma+ob]');
-define('LOGGED_IN_SALT',   '#ja0{*g8KPTh2Pg!q(x8;tCBNq%gLt[QU=M`dSO.&fV|6Q!5Z48!,|0i}pI 62sC');
-define('NONCE_SALT',       ',;rj80KCA2^%%fNN>g9TwV[>QL`~5[qJS9?<Uvf7$P=AM;ut0zQ|1aw![J:>U/hJ');
+define('AUTH_KEY',         '.B$^Zvui6/eF$%0{: g<mCE?dC;&kZU{`nH:m^R%/|s}K8iA&v*h8U?.=v,n8M)i');
+define('SECURE_AUTH_KEY',  '(RD:,IV15P~j?.0r{nqdt;1#+>xSf?ZT(o1L/AkFmX>8w3#ua/8`E4ji!?M9|3f-');
+define('LOGGED_IN_KEY',    '^X9if7A,&133Q?rhPx,mP~bBhF,|N3(O?#oi3PL[>X07/S&v0-wO~5jZ}jC=PXL%');
+define('NONCE_KEY',        'Q{x0X:R-q&OyPH`h}n]Jl<S9LS<^jlF9GT=W.Au,+@Ps;)!HCc1se*CPk*g6EbY>');
+define('AUTH_SALT',        'R5.Q4y3jcU,9o ,>A!kHM{iA%^i9)365f;^nRs#]A|NB52S9:jch)6MRihH_10+%');
+define('SECURE_AUTH_SALT', '5?}RelHFWmj)a::SIv9GxT)TWg2z#`U8r]afIDRS<1*^o5AxhCBw/+qD}`q+=d/Z');
+define('LOGGED_IN_SALT',   'VXO;HJ.Sv*914,~E?Vvr|cHt~MjKN{`aqHK!F5?.gO*[wR?43^57+Y7[}y0nL^Ql');
+define('NONCE_SALT',       'Edw{-9c:As)7tFt?J(=:2?P2YW|T9sh7|P/$.4 !8=h#}?,Mlg}-uFji$NAd3D/9');
 
 /**#@-*/
 
