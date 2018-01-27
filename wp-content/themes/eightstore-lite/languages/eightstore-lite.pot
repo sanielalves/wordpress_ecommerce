@@ -153,7 +153,7 @@ msgstr ""
 
 #: header.php:98
 msgid "Logout"
-msgstr ""
+msgstr "Sair"
 
 #: header.php:106
 msgid "Register"

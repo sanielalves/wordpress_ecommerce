@@ -171,7 +171,7 @@ public function widget($args, $instance){
   }
 
   ?>
-  <section title="product-slider">
+  <section title="Avante!"> <!-- Estava "product-slider" antes de ser alterado -->
     <div class="ak-container">
       <?php echo $before_widget; ?>
       <?php echo $before_title.esc_attr($product_title).$after_title; ?>
@@ -214,7 +214,7 @@ public function widget($args, $instance){
           if( function_exists( 'YITH_WCWL' ) ){
             $url = add_query_arg( 'add_to_wishlist', $product->id );
             ?>
-            <a class="item-wishlist" href="<?php echo $url ?>"><?php _e('Wishlist','accesspress-store'); ?></a>
+            <a class="item-wishlist" href="<?php echo $url ?>"><?php _e('Add Wishlist','accesspress-store'); ?></a>
             <?php
           }
           ?>

@@ -11977,7 +11977,7 @@ msgstr ""
 #: includes/wc-account-functions.php:106
 #: templates/auth/form-grant-access.php:39
 msgid "Logout"
-msgstr ""
+msgstr "Sair"
 
 #: includes/admin/settings/class-wc-settings-accounts.php:174
 msgid ""

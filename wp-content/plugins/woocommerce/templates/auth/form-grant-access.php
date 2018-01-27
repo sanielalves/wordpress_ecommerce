@@ -36,7 +36,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 <div class="wc-auth-logged-in-as">
 	<?php echo get_avatar( $user->ID, 70 ); ?>
-	<p><?php printf( __( 'Logged in as %s', 'woocommerce' ), esc_html( $user->display_name ) ); ?> <a href="<?php echo esc_url( $logout_url ); ?>" class="wc-auth-logout"><?php _e( 'Logout', 'woocommerce' ); ?></a>
+	<p><?php printf( __( 'Logged in as %s', 'woocommerce' ), esc_html( $user->display_name ) ); ?> <a href="<?php echo esc_url( $logout_url ); ?>" class="wc-auth-logout"><?php _e( 'Sair', 'woocommerce' ); ?></a>
 </div>
 
 <p class="wc-auth-actions">

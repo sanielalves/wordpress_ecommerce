@@ -1,0 +1,198 @@
+2018-01-24T00:55:39+00:00 CRITICAL Uncaught MercadoPagoException: Could not resolve host: api.mercadopago.com in C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php:885
+Stack trace:
+#0 C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php(983): MPRestClient::exec(Array, '3.0.9')
+#1 C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(512): MPRestClient::get(Array, '3.0.9')
+#2 C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(130): WC_Woo_Mercado_Pago_Module::get_categories()
+#3 C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(122): WC_Woo_Mercado_Pago_Module->__construct()
+#4 C:\xampp\htdocs\wordpress_ecommerce\wp-includes\class-wp-hook.php(286): WC_Woo_Mercado_Pago_Module::init_mercado_pago_class('')
+#5 C:\xampp\htdocs\wordpress_ecommerce\wp-includes\class-wp-h
+
+2018-01-24T03:20:09+00:00 CRITICAL Uncaught MercadoPagoException: Could not resolve host: api.mercadopago.com in C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php:885
+Stack trace:
+#0 C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php(983): MPRestClient::exec(Array, '3.0.9')
+#1 C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(512): MPRestClient::get(Array, '3.0.9')
+#2 C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(130): WC_Woo_Mercado_Pago_Module::get_categories()
+#3 C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(122): WC_Woo_Mercado_Pago_Module->__construct()
+#4 C:\xampp\htdocs\wordpress_ecommerce\wp-includes\class-wp-hook.php(286): WC_Woo_Mercado_Pago_Module::init_mercado_pago_class('')
+#5 C:\xampp\htdocs\wordpress_ecommerce\wp-includes\class-wp-h
+
+2018-01-24T13:16:54+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-01-24T13:19:12+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-01-24T13:20:18+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-01-24T13:42:13+00:00 CRITICAL Uncaught MercadoPagoException: Could not resolve host: api.mercadopago.com in C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php:885
+Stack trace:
+#0 C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php(983): MPRestClient::exec(Array, '3.0.9')
+#1 C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(512): MPRestClient::get(Array, '3.0.9')
+#2 C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(130): WC_Woo_Mercado_Pago_Module::get_categories()
+#3 C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(122): WC_Woo_Mercado_Pago_Module->__construct()
+#4 C:\xampp\htdocs\wordpress_ecommerce\wp-includes\class-wp-hook.php(286): WC_Woo_Mercado_Pago_Module::init_mercado_pago_class('')
+#5 C:\xampp\htdocs\wordpress_ecommerce\wp-includes\class-wp-h
+
+2018-01-24T13:42:13+00:00 CRITICAL Uncaught MercadoPagoException: Could not resolve host: api.mercadopago.com in C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php:885
+Stack trace:
+#0 C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php(983): MPRestClient::exec(Array, '3.0.9')
+#1 C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(512): MPRestClient::get(Array, '3.0.9')
+#2 C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(130): WC_Woo_Mercado_Pago_Module::get_categories()
+#3 C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(122): WC_Woo_Mercado_Pago_Module->__construct()
+#4 C:\xampp\htdocs\wordpress_ecommerce\wp-includes\class-wp-hook.php(286): WC_Woo_Mercado_Pago_Module::init_mercado_pago_class('')
+#5 C:\xampp\htdocs\wordpress_ecommerce\wp-includes\class-wp-h
+
+2018-01-24T13:42:13+00:00 CRITICAL Uncaught MercadoPagoException: Could not resolve host: api.mercadopago.com in C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php:885
+Stack trace:
+#0 C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php(983): MPRestClient::exec(Array, '3.0.9')
+#1 C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(512): MPRestClient::get(Array, '3.0.9')
+#2 C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(130): WC_Woo_Mercado_Pago_Module::get_categories()
+#3 C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(122): WC_Woo_Mercado_Pago_Module->__construct()
+#4 C:\xampp\htdocs\wordpress_ecommerce\wp-includes\class-wp-hook.php(286): WC_Woo_Mercado_Pago_Module::init_mercado_pago_class('')
+#5 C:\xampp\htdocs\wordpress_ecommerce\wp-includes\class-wp-h
+
+2018-01-24T13:42:14+00:00 CRITICAL Uncaught MercadoPagoException: Could not resolve host: api.mercadopago.com in C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php:885
+Stack trace:
+#0 C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php(983): MPRestClient::exec(Array, '3.0.9')
+#1 C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(512): MPRestClient::get(Array, '3.0.9')
+#2 C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(130): WC_Woo_Mercado_Pago_Module::get_categories()
+#3 C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(122): WC_Woo_Mercado_Pago_Module->__construct()
+#4 C:\xampp\htdocs\wordpress_ecommerce\wp-includes\class-wp-hook.php(286): WC_Woo_Mercado_Pago_Module::init_mercado_pago_class('')
+#5 C:\xampp\htdocs\wordpress_ecommerce\wp-includes\class-wp-h
+
+2018-01-24T13:42:14+00:00 CRITICAL Uncaught MercadoPagoException: Could not resolve host: api.mercadopago.com in C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php:885
+Stack trace:
+#0 C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php(983): MPRestClient::exec(Array, '3.0.9')
+#1 C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(512): MPRestClient::get(Array, '3.0.9')
+#2 C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(130): WC_Woo_Mercado_Pago_Module::get_categories()
+#3 C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(122): WC_Woo_Mercado_Pago_Module->__construct()
+#4 C:\xampp\htdocs\wordpress_ecommerce\wp-includes\class-wp-hook.php(286): WC_Woo_Mercado_Pago_Module::init_mercado_pago_class('')
+#5 C:\xampp\htdocs\wordpress_ecommerce\wp-includes\class-wp-h
+
+2018-01-24T13:42:14+00:00 CRITICAL Uncaught MercadoPagoException: Could not resolve host: api.mercadopago.com in C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php:885
+Stack trace:
+#0 C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php(983): MPRestClient::exec(Array, '3.0.9')
+#1 C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(512): MPRestClient::get(Array, '3.0.9')
+#2 C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(130): WC_Woo_Mercado_Pago_Module::get_categories()
+#3 C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(122): WC_Woo_Mercado_Pago_Module->__construct()
+#4 C:\xampp\htdocs\wordpress_ecommerce\wp-includes\class-wp-hook.php(286): WC_Woo_Mercado_Pago_Module::init_mercado_pago_class('')
+#5 C:\xampp\htdocs\wordpress_ecommerce\wp-includes\class-wp-h
+
+2018-01-24T13:42:14+00:00 CRITICAL Uncaught MercadoPagoException: Could not resolve host: api.mercadopago.com in C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php:885
+Stack trace:
+#0 C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php(983): MPRestClient::exec(Array, '3.0.9')
+#1 C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(512): MPRestClient::get(Array, '3.0.9')
+#2 C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(130): WC_Woo_Mercado_Pago_Module::get_categories()
+#3 C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(122): WC_Woo_Mercado_Pago_Module->__construct()
+#4 C:\xampp\htdocs\wordpress_ecommerce\wp-includes\class-wp-hook.php(286): WC_Woo_Mercado_Pago_Module::init_mercado_pago_class('')
+#5 C:\xampp\htdocs\wordpress_ecommerce\wp-includes\class-wp-h
+
+2018-01-24T13:59:21+00:00 CRITICAL Uncaught MercadoPagoException: Failed to connect to api.mercadopago.com port 443: Timed out in C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php:885
+Stack trace:
+#0 C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php(983): MPRestClient::exec(Array, '3.0.9')
+#1 C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(512): MPRestClient::get(Array, '3.0.9')
+#2 C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(130): WC_Woo_Mercado_Pago_Module::get_categories()
+#3 C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(122): WC_Woo_Mercado_Pago_Module->__construct()
+#4 C:\xampp\htdocs\wordpress_ecommerce\wp-includes\class-wp-hook.php(286): WC_Woo_Mercado_Pago_Module::init_mercado_pago_class('')
+#5 C:\xampp\htdocs\wordpress_ecommerce\wp-in
+
+2018-01-24T13:59:21+00:00 CRITICAL Uncaught MercadoPagoException: Failed to connect to api.mercadopago.com port 443: Timed out in C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php:885
+Stack trace:
+#0 C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php(983): MPRestClient::exec(Array, '3.0.9')
+#1 C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(512): MPRestClient::get(Array, '3.0.9')
+#2 C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(130): WC_Woo_Mercado_Pago_Module::get_categories()
+#3 C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(122): WC_Woo_Mercado_Pago_Module->__construct()
+#4 C:\xampp\htdocs\wordpress_ecommerce\wp-includes\class-wp-hook.php(286): WC_Woo_Mercado_Pago_Module::init_mercado_pago_class('')
+#5 C:\xampp\htdocs\wordpress_ecommerce\wp-in
+
+2018-01-24T13:59:31+00:00 CRITICAL Uncaught MercadoPagoException: Failed to connect to api.mercadopago.com port 443: Timed out in C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php:885
+Stack trace:
+#0 C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php(983): MPRestClient::exec(Array, '3.0.9')
+#1 C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(512): MPRestClient::get(Array, '3.0.9')
+#2 C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(130): WC_Woo_Mercado_Pago_Module::get_categories()
+#3 C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(122): WC_Woo_Mercado_Pago_Module->__construct()
+#4 C:\xampp\htdocs\wordpress_ecommerce\wp-includes\class-wp-hook.php(286): WC_Woo_Mercado_Pago_Module::init_mercado_pago_class('')
+#5 C:\xampp\htdocs\wordpress_ecommerce\wp-in
+
+2018-01-24T22:30:03+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-01-24T22:30:29+00:00 CRITICAL Uncaught MercadoPagoException: Failed to connect to api.mercadopago.com port 443: Timed out in C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php:885
+Stack trace:
+#0 C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php(983): MPRestClient::exec(Array, '3.0.9')
+#1 C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(512): MPRestClient::get(Array, '3.0.9')
+#2 C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(130): WC_Woo_Mercado_Pago_Module::get_categories()
+#3 C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(122): WC_Woo_Mercado_Pago_Module->__construct()
+#4 C:\xampp\htdocs\wordpress_ecommerce\wp-includes\class-wp-hook.php(286): WC_Woo_Mercado_Pago_Module::init_mercado_pago_class('')
+#5 C:\xampp\htdocs\wordpress_ecommerce\wp-in
+
+2018-01-25T11:42:42+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-01-25T12:28:16+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-01-25T12:33:28+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-01-25T12:33:29+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-01-25T12:40:43+00:00 CRITICAL Uncaught MercadoPagoException: Failed to connect to api.mercadopago.com port 443: Timed out in C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php:885
+Stack trace:
+#0 C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php(983): MPRestClient::exec(Array, '3.0.9')
+#1 C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(512): MPRestClient::get(Array, '3.0.9')
+#2 C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(130): WC_Woo_Mercado_Pago_Module::get_categories()
+#3 C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(122): WC_Woo_Mercado_Pago_Module->__construct()
+#4 C:\xampp\htdocs\wordpress_ecommerce\wp-includes\class-wp-hook.php(286): WC_Woo_Mercado_Pago_Module::init_mercado_pago_class('')
+#5 C:\xampp\htdocs\wordpress_ecommerce\wp-in
+
+2018-01-25T12:56:48+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-01-25T12:59:36+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-01-25T13:42:00+00:00 CRITICAL Uncaught MercadoPagoException: Failed to connect to api.mercadopago.com port 443: Timed out in C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php:885
+Stack trace:
+#0 C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\includes\sdk\lib\mercadopago.php(983): MPRestClient::exec(Array, '3.0.9')
+#1 C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(512): MPRestClient::get(Array, '3.0.9')
+#2 C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(130): WC_Woo_Mercado_Pago_Module::get_categories()
+#3 C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woocommerce-mercadopago\woocommerce-mercadopago.php(122): WC_Woo_Mercado_Pago_Module->__construct()
+#4 C:\xampp\htdocs\wordpress_ecommerce\wp-includes\class-wp-hook.php(286): WC_Woo_Mercado_Pago_Module::init_mercado_pago_class('')
+#5 C:\xampp\htdocs\wordpress_ecommerce\wp-in
+
+2018-01-25T23:46:09+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-01-25T23:46:13+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-01-25T23:46:18+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-01-25T23:46:18+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-01-26T03:05:22+00:00 CRITICAL Uncaught Error: Call to undefined method YITH_WCWL::get_teste_url() in C:\xampp\htdocs\wordpress_ecommerce\wp-content\themes\accesspress-store\header\header-one.php:48
+Stack trace:
+#0 C:\xampp\htdocs\wordpress_ecommerce\wp-includes\template.php(690): require()
+#1 C:\xampp\htdocs\wordpress_ecommerce\wp-includes\template.php(647): load_template('C:\\xampp\\htdocs...', false)
+#2 C:\xampp\htdocs\wordpress_ecommerce\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#3 C:\xampp\htdocs\wordpress_ecommerce\wp-content\themes\accesspress-store\header.php(24): get_template_part('header/header', 'one')
+#4 C:\xampp\htdocs\wordpress_ecommerce\wp-includes\template.php(688): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress_ecommerce\wp-includes\template.php(647): load_template('C:\\xampp\\htdocs...', true)
+#6 C:\xampp\htdocs\wordpress_ecommerce\wp-includes\general-template.php(41): locate_template(Array, true)
+#7 C:\xampp\htdocs\wordpress_ecommerce\wp-content\themes\accesspress-store
+
+2018-01-26T03:05:22+00:00 CRITICAL Uncaught Error: Call to undefined method YITH_WCWL::get_teste_url() in C:\xampp\htdocs\wordpress_ecommerce\wp-content\themes\accesspress-store\header\header-one.php:48
+Stack trace:
+#0 C:\xampp\htdocs\wordpress_ecommerce\wp-includes\template.php(690): require()
+#1 C:\xampp\htdocs\wordpress_ecommerce\wp-includes\template.php(647): load_template('C:\\xampp\\htdocs...', false)
+#2 C:\xampp\htdocs\wordpress_ecommerce\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#3 C:\xampp\htdocs\wordpress_ecommerce\wp-content\themes\accesspress-store\header.php(24): get_template_part('header/header', 'one')
+#4 C:\xampp\htdocs\wordpress_ecommerce\wp-includes\template.php(688): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress_ecommerce\wp-includes\template.php(647): load_template('C:\\xampp\\htdocs...', true)
+#6 C:\xampp\htdocs\wordpress_ecommerce\wp-includes\general-template.php(41): locate_template(Array, true)
+#7 C:\xampp\htdocs\wordpress_ecommerce\wp-content\themes\accesspress-store
+
+2018-01-26T03:06:18+00:00 CRITICAL Uncaught Error: Call to undefined method YITH_WCWL::get_teste_url() in C:\xampp\htdocs\wordpress_ecommerce\wp-content\themes\accesspress-store\header\header-one.php:48
+Stack trace:
+#0 C:\xampp\htdocs\wordpress_ecommerce\wp-includes\template.php(690): require()
+#1 C:\xampp\htdocs\wordpress_ecommerce\wp-includes\template.php(647): load_template('C:\\xampp\\htdocs...', false)
+#2 C:\xampp\htdocs\wordpress_ecommerce\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#3 C:\xampp\htdocs\wordpress_ecommerce\wp-content\themes\accesspress-store\header.php(24): get_template_part('header/header', 'one')
+#4 C:\xampp\htdocs\wordpress_ecommerce\wp-includes\template.php(688): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress_ecommerce\wp-includes\template.php(647): load_template('C:\\xampp\\htdocs...', true)
+#6 C:\xampp\htdocs\wordpress_ecommerce\wp-includes\general-template.php(41): locate_template(Array, true)
+#7 C:\xampp\htdocs\wordpress_ecommerce\wp-content\themes\accesspress-store
+
+2018-01-26T10:39:52+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
