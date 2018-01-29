@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: AccessPress Store\n"
 "POT-Creation-Date: 2018-01-25 00:47-0200\n"
-"PO-Revision-Date: 2018-01-26 10:54-0200\n"
+"PO-Revision-Date: 2018-01-27 17:23-0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: pt_BR\n"
@@ -155,7 +155,7 @@ msgstr " Sair"
 
 #: header/header-one.php:66 header/header-two.php:74
 msgid "Login"
-msgstr "Logar"
+msgstr "Entrar / Cadastrar"
 
 #: header/header-one.php:102 header/header-two.php:110
 msgid "Menu"
